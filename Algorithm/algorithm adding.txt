@@ -1,0 +1,5 @@
+Step1: START
+Step2: GET values of number1 and number2
+Step3: Add the values of number1 and number2 and store the value in number3
+Step4: Display the value of number3
+Step5: STOP
